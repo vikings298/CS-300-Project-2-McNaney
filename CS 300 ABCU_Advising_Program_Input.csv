@@ -1,0 +1,108 @@
+CSCI217,Game Programming I,CSCI211,
+IT203,Cloud Infrastructure,IT202,
+ENGR301,Robotics,ENGR300,CSCI217
+CSCI235,Ethical Hacking,CSCI228,
+MATH305,Graph Theory,MATH201,
+CSCI244,Blockchain Systems,CSCI226,
+ENGR104,Thermodynamics,ENGR103,
+CSCI221,Machine Learning,CSCI205,MATH301
+IT205,Database Administration,IT201,
+ENGR200,Materials Science,ENGR101,
+MATH204,Differential Equations,MATH202,
+CSCI214,Software Testing,CSCI213,
+CSCI106,Computer Organization,CSCI102,
+ENGR302,Computer-Aided Design,ENGR200,
+MATH301,Advanced Calculus,MATH202,
+ENGR303,Engineering Simulation,ENGR203,MATH304
+CSCI207,Web Development II,CSCI206,
+ENGR103,Dynamics,ENGR102,
+CSCI200,Data Structures,CSCI101,
+CSCI105,Computing Ethics,CSCI100,
+MATH303,Statistical Computing,MATH205,
+CSCI249,High Performance Computing,CSCI216,
+CSCI230,System Programming,CSCI229,
+ENGR400,Senior Design I,ENGR304,ENGR301
+CSCI108,Computer Systems,CSCI106,
+CSCI201,Advanced Data Structures,CSCI200,
+IT302,Digital Forensics,IT301,CSCI231
+CSCI111,Intro to Assembly Language,CSCI106,
+MATH200,Calculus I,MATH101,
+CSCI218,Game Programming II,CSCI217,
+CSCI112,Programming in Python,CSCI101,
+MATH202,Calculus II,MATH200,
+ENGR105,Fluid Mechanics,ENGR104,
+ENGR101,Engineering Design,ENGR100,
+CSCI243,Advanced Databases,CSCI203,
+ENGR304,Project Management,ENGR204,
+CSCI209,Human Computer Interaction,CSCI206,
+CSCI232,Compiler Design,CSCI205,CSCI229
+CSCI241,Virtual Reality,CSCI240,
+CSCI219,Computer Graphics,CSCI211,
+MATH302,Mathematical Modeling,MATH203,
+CSCI300,Introduction to Algorithms,CSCI200,MATH201
+CSCI104,Introduction to Software Tools,CSCI101,
+ENGR102,Statics,ENGR101,MATH200
+CSCI223,Neural Networks,CSCI221,CSCI222
+IT400,IT Capstone,IT204,CSCI250
+CSCI210,Object-Oriented Design,CSCI200,
+CSCI234,Quantum Computing,CSCI205,MATH401
+MATH203,Linear Algebra,MATH200,
+CSCI236,Software Maintenance,CSCI214,
+CSCI216,Parallel Programming,CSCI201,
+CSCI102,Programming Fundamentals,CSCI101,
+ENGR100,Introduction to Engineering,,
+CSCI107,Digital Logic Design,CSCI106,
+MATH304,Optimization Techniques,MATH204,
+CSCI229,Operating Systems,CSCI220,
+CSCI233,Embedded Systems,CSCI107,CSCI220
+CSCI300,Introduction to Algorithms,CSCI200,MATH201
+CSCI237,Large Software Development,CSCI215,CSCI236
+IT101,Computer Applications,IT100,
+CSCI100,Introduction to Computer Science,,
+CSCI240,Augmented Reality,CSCI219,
+CSCI211,Object-Oriented Programming,CSCI210,
+MATH205,Probability and Statistics,MATH203,
+CSCI228,Network Security,CSCI227,
+MATH305,Graph Theory,MATH201,
+ENGR301,Robotics,ENGR300,CSCI217
+CSCI203,Database Applications,CSCI202,
+CSCI213,Agile Development,CSCI212,
+MATH401,Numerical Methods,MATH204,
+CSCI238,Advanced Programming in C++,CSCI211,
+CSCI206,Web Development I,CSCI101,
+IT300,Advanced Networking,IT200,CSCI227
+CSCI242,Computational Theory,CSCI205,MATH302
+CSCI109,Introduction to Networking,CSCI104,
+ENGR201,Electrical Circuits,ENGR200,
+CSCI202,Introduction to Databases,CSCI200,
+ENGR202,Signals and Systems,ENGR201,
+CSCI245,Software Security,CSCI228,
+ENGR300,Mechatronics,ENGR203,CSCI233
+MATH201,Discrete Mathematics,MATH100,
+CSCI205,Advanced Algorithms,CSCI204,
+ENGR401,Senior Design II,ENGR400,
+CSCI212,Software Design Patterns,CSCI211,
+CSCI224,Data Mining,CSCI202,
+CSCI350,Operating Systems,CSCI300,
+IT100,Introduction to Information Technology,,
+ENGR203,Control Systems,ENGR202,MATH204
+CSCI247,Data Visualization,CSCI225,
+CSCI208,Mobile App Development,CSCI200,
+CSCI222,Artificial Intelligence,CSCI205,MATH302
+ENGR205,Engineering Ethics,ENGR100,
+CSCI104,Introduction to Software Tools,CSCI101,
+ENGR204,Engineering Economy,ENGR101,
+CSCI215,Software Project Management,CSCI213,
+MATH100,College Algebra,,
+CSCI239,Applied Artificial Intelligence,CSCI222,
+IT200,Networking Fundamentals,IT101,
+ENGR302,Computer-Aided Design,ENGR200,
+CSCI231,Computer Forensics,CSCI228,
+CSCI225,Big Data Analytics,CSCI224,
+MATH101,Trigonometry,MATH100,
+CSCI246,DevOps Engineering,CSCI215,
+ENGR202,Signals and Systems,ENGR201,
+IT202,System Security,IT201,
+CSCI204,Algorithms,CSCI201,
+ENGR203,Control Systems,ENGR202,MATH204
+CSCI250,Capstone Project,CSCI237,CSCI215
