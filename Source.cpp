@@ -13,7 +13,7 @@
 //Mitchell McNaney
 //CS 300 Project 2
 //10-11-2025
-//C:\Dev\CS 300 Project 2\\CS 300 ABCU_Advising_Program_Input.csv
+
 
 std::string fileName;
 
